@@ -1,2 +1,2 @@
 # derten
-https://denizerten.github.io/derten/
+https://denizerten.github.io
