@@ -1,23 +1,61 @@
-#main_name{
-    color: #2d91e3;
+.main_name{
+    color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 70px;
-    padding-top: -5px;
+    width: 400px;
 }
 
-#main_name_banner{
+.main_name_banner{
     text-align: left;
     padding-left: 30px;
-    background: #f7f4f2;
+    background: #fff;
     font-size: 30px;
-    width: 1865px;
-    height: 110px;
+    width: 1800px;
+    height: 150px;
     padding-top: 5px;
     padding-bottom: 15px;
     margin: auto;
+    border: black 2px solid;
+    background-image: url("https://www.advancedsciencenews.com/wp-content/uploads/2020/06/graham-holtshausen-fUnfEz3VLv4-unsplash.jpg");
 }
 
-#sub-menus{
+.sub-menus{
     font-family: Arial, Helvetica, sans-serif;
-    padding-left: 1000px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    width: 500px;
+    font-size: 30px;
 }
+
+.body{
+    margin-left: 800px;
+    margin-right: 200px;
+    border: black 2px solid;
+    height: 1000px;
+    margin-top: 50px;
+}
+
+.contact-info{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 150px;
+    margin-top: -170px;
+    color: white;
+    font-size: 25px;
+    width: 700px;
+    padding-left: 600px;
+}
+
+.link:link, .link:visited {
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* border display position top/bottom/left/right */
