@@ -2,7 +2,8 @@
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 70px;
-    width: 400px;
+    width: 600px;
+    letter-spacing: 1px;
 }
 
 .main_name_banner{
@@ -10,13 +11,12 @@
     padding-left: 30px;
     background: #fff;
     font-size: 30px;
-    width: 1800px;
+    width: 1850px;
     height: 150px;
     padding-top: 5px;
     padding-bottom: 15px;
-    margin: auto;
-    border: black 2px solid;
-    background-image: url("https://www.advancedsciencenews.com/wp-content/uploads/2020/06/graham-holtshausen-fUnfEz3VLv4-unsplash.jpg");
+    background-image: url("https://images.hdqwalls.com/download/moon-fox-galaxy-4k-79-2048x1152.jpg");
+    background-position: bottom;
 }
 
 .sub-menus{
@@ -41,14 +41,15 @@
 
 .contact-info{
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 500px;
+    margin-left: 450px;
     margin-right: 500px;
     height: 150px;
     margin-top: -170px;
     color: white;
     font-size: 25px;
-    width: 700px;
-    padding-left: 600px;
+    width: 690px;
+    padding-left: 730px;
+
 }
 
 .link:link, .link:visited {
@@ -58,4 +59,11 @@
   text-decoration: none;
 }
 
+.bg{
+    background-position: center;
+    background-size: cover;
+    background-image: url("https://wallpaperaccess.com/full/24866.jpg");
+}
+
+/* border: black 2px solid; */
 /* border display position top/bottom/left/right */
