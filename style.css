@@ -1,4 +1,5 @@
 .main_name{
+    margin-left: 50px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 70px;
@@ -7,39 +8,52 @@
 }
 
 .main_name_banner{
-    text-align: left;
-    padding-left: 30px;
-    background: #fff;
+    margin-top: 20px;
+    margin-left: 200px;
     font-size: 30px;
-    width: 1850px;
-    height: 150px;
-    padding-top: 5px;
+    width: 1550px;
+    height: 120px;
+    padding-top: 90px;
     padding-bottom: 15px;
-    background-image: url("https://images.hdqwalls.com/download/moon-fox-galaxy-4k-79-2048x1152.jpg");
+    background-image: url("https://www.meme-arsenal.com/memes/d065a12ca62f5b8052f2ae58a501fe61.jpg");
     background-position: bottom;
 }
 
 .sub-menus{
+    margin-left: 48px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
     width: 500px;
     font-size: 30px;
-    padding-left: 280px;
+    padding-left: 150px;
 }
 
 .body{
-    margin-left: 900px;
-    margin-right: 100px;
+    margin-left: 1300px;
+    margin-right: 152px;
     border: black 2px solid;
-    height: 600px;
-    margin-top: -50px;
+    height: 450px;
+    margin-top: -440px;
+    background-image: url("resources/pictures/selfie.jpg");
+    background-size: contain;
+    width: 400px;
+}
+
+.body-p{
+    margin-left: 750px;
+    margin-right: 152px;
+    height: 450px;
+    margin-top: -100px;
+    width: 400px;
+    border: white 2px solid;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .contact-info{
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 1170px;
+    margin-left: 900px;
     height: 150px;
-    margin-top: -130px;
+    margin-top: -170px;
     color: white;
     font-size: 25px;
     width: 690px;
@@ -55,25 +69,57 @@
 .bg{
     background-position: center;
     background-size: cover;
-    background-image: url("https://wallpaperaccess.com/full/24866.jpg");
+    background-image: url("https://www.meme-arsenal.com/memes/d065a12ca62f5b8052f2ae58a501fe61.jpg");
 }
 
-.construction{
+.resume-pdf{
+    margin-left: 790px;
+    margin-top: -80px;
+}
+
+.vl-projects {
+    border-left: 2px solid black;
+    height: 2300px;
+    position: absolute;
+    left: 50%;
+    margin-left: -270px;
+    top: 0;
+    margin-top: 260px;
+}
+
+.vl-home {
+    border-left: 2px solid black;
+    height: 700px;
+    position: absolute;
+    left: 50%;
+    margin-left: -270px;
+    top: 0;
+    margin-top: 260px;
+}
+
+.vl-resume {
+    border-left: 2px solid black;
+    height: 950px;
+    position: absolute;
+    left: 50%;
+    margin-left: -270px;
+    top: 0;
+    margin-top: 260px;
+}
+
+.project-list{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 50px;
-    font-weight: bold;
+    margin-left: 680px;
+    margin-top: -75px;
+    margin-right: 100px;
+}
+
+.navigator{
+    margin-left: 570px;
+    margin-top: -70px;
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
 
-.construction-bg{
-    background-color: black;
-    width: 450px;
-    height: 70px;
-    size: 500px;
-    margin-left: 600px;
-    margin-top: -150px;
-
-}
-
-/* border: black 2px solid; */
-/* border display position top/bottom/left/right */
+/* border: black 2px solid;
+border display position top/bottom/left/right */
